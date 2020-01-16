@@ -1,0 +1,35 @@
+{
+	"@type": "Person",
+	"@id": "sadf-asdf-23fw-grew",
+	"name": "Sally Jessica Smith",
+	"givenName": "Sally",
+	"familyName": "Smith",
+	"additionalName": "Jessica",
+	"alternateName": "",
+	"isVeteran": true,
+	"veteranStatus": "Honorably discharged",
+	"language": "English",
+	"birthDate": "1985-01-23",
+	"household": [{
+			"@type": "Person",
+			"roleName": "child",
+			"parents": [{
+				"@id": "sadf-asdf-23fw-grew"
+			}],
+			"name": "Darryl Smith",
+			"birthDate": "2005 - 02 - 16"
+
+		},
+		{
+			"@type": "Person",
+			"roleName": "child",
+			"name": "Jamila Smith",
+			"parent": {
+				"@id": "8574-2fji-234f-jijg",
+				"@type": "Person",
+				"name": "James Douglas",
+				"birthDate": "2004-07-18"
+			}
+		}
+	]
+}

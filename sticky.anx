@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <AnswerSet title="">
+<Answer name="name">
+<TextValue>Sally Jessica Smith</TextValue>
+</Answer>
+<Answer name="givenName">
+<TextValue>Sally</TextValue>
+</Answer>
+<Answer name="familyName">
+<TextValue>Smith</TextValue>
+</Answer>
+<Answer name="additionalName">
+<TextValue>Jessica</TextValue>
+</Answer>
+<Answer name="alternateName">
+<TextValue></TextValue>
+</Answer>
+<Answer name="isVeteran">
+<TFValue></TFValue>
+</Answer>
+<Answer name="veteranStatus">
+<TextValue>Honorably discharged</TextValue>
+</Answer>
+<Answer name="birthDate">
+<TextValue>1985-01-23</TextValue>
+</Answer><Answer name="household_roleName">
+<RptValue><TextValue>child</TextValue><TextValue>child</TextValue></RptValue>
+</Answer><Answer name="household_name">
+<RptValue><TextValue></TextValue><TextValue>Array</TextValue></RptValue>
+</Answer><Answer name="household_birthdate">
+<RptValue><TextValue></TextValue><TextValue></TextValue></RptValue>
+</Answer></AnswerSet>

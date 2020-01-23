@@ -12,7 +12,10 @@ Answer file can be uploaded into an account at a2j.org and attached to the A2J G
 Contributors:
 
 Jessica Frank
+
 Jonathan Pyle
+
 Tobias Nteireho
+
 Quinten Steenhuis
 
